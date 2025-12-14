@@ -3,7 +3,7 @@ Kelompok 5 Message Queue Processing System
 
 ## Anggota Kelompok
  Krisna Dwi Saputra (2410501078)
- Achmad Habiibi (2410501105)
+ Achmad Habiibi (2410501106)
  Riko Indra K (2410501079)
  Muhamad Fauzi Achsan (2410501082)
 
@@ -37,4 +37,5 @@ Alur User - Producer API - RabbitMQ Queue - Consumer Worker
 (Tampilan docker compose ps)
 
 ![Logs](.docsimglogs.png)
+
 (Tampilan log consumer berhasil memproses pesan)
